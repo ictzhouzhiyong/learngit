@@ -1,2 +1,2 @@
-This is feature 3. Right, Right
+This is feature 3. Left, Left, Right, Right
 A new feature talking about how to code.
